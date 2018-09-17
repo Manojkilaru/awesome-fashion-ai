@@ -49,6 +49,7 @@ Areas
   - [Learning Fashion Compatibility with Bidirectional LSTMs](https://arxiv.org/pdf/1707.05691v1.pdf)
   - [Learning Visual Clothing Style with Heterogeneous Dyadic Co-occurrences](https://arxiv.org/pdf/1509.07473v1.pdf)
   - [Recommending Outfits from Personal Closet](https://arxiv.org/pdf/1804.09979v1.pdf)
+  - [Outfit Generation and Style Extraction via Bidirectional LSTM and Autoencoder](https://arxiv.org/pdf/1807.03133.pdf)
   
   
 ##### Visual Search/Visual Recommendation/Visual Retrieval
